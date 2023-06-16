@@ -3,7 +3,7 @@ An e-commerce android application within college campus where students can sell 
 
 
 ## Overview
-The application contains list of products such as coolers, cycles on which user can click to view its details and then, add them to cart. User can like and dislike the product as well. Also, User can sell products, if he/she signed up as a Seller.
+The application contains list of products such as coolers, cycles on which user can click to view its details and then, add them to cart. User can like and dislike the product as well. Also, User can buy and sell products.
 Some other features are as following:
 - Login / Signup with Proper Email Verification which allow only college students(MNNIT) to make their accounts.
 - Recyclerview with variable span size to show, sell products.
